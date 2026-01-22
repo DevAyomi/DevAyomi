@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hey, I'm [Devayomi]
+# 👋 Hey, I'm Devayomi
 
-### Smart Contract Developer | Backend Engineer | Blockchain Enthusiast
+### Full-Stack Developer | Smart Contract Engineer | Backend Specialist | Blockchain Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gbolagade-winner-5698b4178/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/0xdevayo)
@@ -30,6 +30,12 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
+### Frontend Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/-MaterialUI-007FFF?style=flat&logo=mui&logoColor=white)
+
 ### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -45,53 +51,53 @@ pragma solidity ^0.8.20;
 contract WhatIDo {
     string[] public expertise = [
         "Build secure & gas-optimized smart contracts",
-        "Design DeFi protocols and tokenomics",
-        "Develop backend systems for Web3 applications",
-        "Conduct smart contract security audits",
-        "Create scalable blockchain infrastructure"
+        "Design and implement DeFi protocols",
+        "Develop full-stack Web3 applications",
+        "Build scalable backend APIs & services",
+        "Integrate smart contracts with modern frontends",
+        "Conduct smart contract audits & reviews"
     ];
     
     function getCurrentFocus() external pure returns (string memory) {
-        return "Building decentralized escrow systems & DeFi protocols";
+        return "Building full-stack Web3 products & decentralized escrow systems";
     }
 }
-```
+💡 Skills Breakdown
+Full-Stack Development
 
----
+████████████████████ Frontend (React / Next.js)
 
-## 💼 Featured Projects
+████████████████████ Backend (Node.js / TypeScript)
 
+███████████████████░ API Design & Integration
 
+██████████████████░░ System Architecture
 
-## 💡 Skills Breakdown
+Smart Contract Development
 
-**Smart Contract Development**
-- ████████████████████ Solidity (Advanced)
-- ███████████████████░ Security Best Practices (Advanced)
-- ██████████████████░░ Gas Optimization (Advanced)
-- ███████████████░░░░░ Assembly/Yul (Intermediate)
+████████████████████ Solidity (Advanced)
 
-**Backend Engineering**
-- ████████████████████ Node.js/TypeScript (Advanced)
-- ███████████████████░ API Design (Advanced)
-- ██████████████████░░ Database Design (Advanced)
-- ███████████████████░ System Architecture (Advanced)
+███████████████████░ Security Best Practices
 
-**Testing & DevOps**
-- ███████████████████░ Unit/Integration Testing (Advanced)
-- ██████████████████░░ CI/CD Pipelines (Advanced)
-- █████████████████░░░ Docker & Containerization (Intermediate)
+██████████████████░░ Gas Optimization
 
----
+███████████████░░░░░ Assembly / Yul
 
-## 🤝 Let's Connect!
+Testing & DevOps
 
-I'm always open to collaborating on interesting blockchain projects or discussing Web3 technology.
+███████████████████░ Unit & Integration Testing
 
-- 💼 Open for: **Smart Contract Development & Backend Engineering roles**
-- 💬 Ask me about: **Solidity, DeFi, Gas Optimization, Backend Architecture**
-- 📫 Reach me: **gbolagadewinner@gmail.com**
-- 🌍 Location: **Lagos, Nigeria**
+██████████████████░░ CI/CD Pipelines
 
+█████████████████░░░ Docker & Containerization
 
-</div>
+🤝 Let's Connect!
+I'm open to collaborating on full-stack Web3 products, smart contracts, and scalable backend systems.
+
+💼 Open for: Full-Stack, Smart Contract & Backend roles
+
+💬 Ask me about: Solidity, DeFi, Web3 Architecture, APIs
+
+📫 Reach me: gbolagadewinner@gmail.com
+
+🌍 Location: Lagos, Nigeria
